@@ -4,7 +4,7 @@ import React from "react";
 interface Props {
   title: string;
   icon?: string;
-  variant: "btn_dark_green";
+  variant: "btn_dark_green" | "btn_green" | "btn_white_text";
   type: "button" | "submit";
 }
 function Button({ title, icon, variant, type }: Props) {
