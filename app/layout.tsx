@@ -5,8 +5,8 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 
 export const metadata: Metadata = {
-  title: "Lillinker",
-  description: "La Voie Rapide vers la Société de Portage Parfaite.",
+  title: "Travel",
+  description: "Travel UI/UX App for Camping",
 };
 
 export default function RootLayout({
